@@ -8,7 +8,7 @@ Using java in Eclipse IDE.
 # Project documentation
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="https://github.com/Pardeep2842/BookShop-Project/blob/main/Main.png" alt="Project logo">
+ <img width=500px height=200px src="https://github.com/Pardeep2842/Electricity-Billing-System/blob/main/Ebill1.png" alt="Project logo">
   </a>
 </p>
 
