@@ -201,13 +201,13 @@ It has Seven major features.
 4. Clear Records:-
       In Clear button it Clear the all detailed which was entered by the users like Book Name, 
        Edition, and Price etc.
-![BookShop ClearBt1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/ExitBt.png)
+![BookShop ClearBt1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/EmptyUi.png)
 
 5. Update Records:-
       In Update button it Update the all detailed which was entered by the users like Book Name, 
       Edition, and Price. If we want change any specific details the it aalso channge the details
        etc.
-![BookShop UpdateBt1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/ExitBt.png)
+![BookShop UpdateBt1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/UpdatedBt.png)
 
 6. Delete Records:-
      In Delete button it Delete the all detailed which was entered by the users like Book Name, 
@@ -218,19 +218,15 @@ It has Seven major features.
 7. Search By Id:-
      In Search Part we can search the all detailed  only by filling the book id in text field and it 
      shows all the details which was entered by the users like Book Name, Edition, and Price etc. 
-![BookShop SearchPart1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/ExitBt.png)
+![BookShop SearchPart1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/SearchById.png)
 
 
 ## Deployment <a name = "deployment"></a>
 
 First Run the file next we get a GUI for Entering the Book details, Save ,Exit ,Clear ,Update, Delete Button and Search by Id.
-
-![Ebillimage1](https://github.com/Pardeep2842/Electricity-Billing-System/blob/main/Ebillimage1.png)
-
-![Ebillimage2](https://github.com/Pardeep2842/Electricity-Billing-System/blob/main/Ebillimage2.png)
-
-![Ebillimage3)](https://github.com/Pardeep2842/Electricity-Billing-System/blob/main/Ebillimage3.png)
-
+![BookShop EmptyUi1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/EmptyUi.png)
+![BookShop SaveBt1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/SaveBt3.png)
+![BookShop SearchPart1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/SearchById.png)
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
@@ -244,8 +240,7 @@ First Run the file next we get a GUI for Entering the Book details, Save ,Exit ,
 
     Each and Every coders are inspiration to me. 
 - References
-
-    TutusFunny, 
+ 
     Google,
     Youtube etc.
 
