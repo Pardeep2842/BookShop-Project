@@ -8,9 +8,9 @@ Using java in Eclipse IDE.
 # Project documentation
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="https://github.com/Pardeep2842/BookShop-Project/blob/main/images/UI.png" alt="Project logo"></a>
+ <img width=500px height=200px src="https://github.com/Pardeep2842/BookShop-Project/blob/main/images/UI.PNG" alt="Project logo"></a>
 </p>
-     ![image1](./images/UI.PNG)
+     ![image1](../images/UI.PNG)
      ![image2](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/UI.png)
 
 <h3 align="center"> BOOK SHOP INVENTRY SYSTEM</h3>
