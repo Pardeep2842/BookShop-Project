@@ -3,7 +3,7 @@
 The electricity billing system is a software-based project that is designed to manage the billing process of electricity consumption. It is developed to automate the  traditional manual billing system and make the process efficient, accurate and fast. This project aims to create a system that will reduce the errors in manual       billing, simplify the billing process, and provide users with a convenient way to pay their bills.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-using java in Eclipse IDE.
+Using java in Eclipse IDE.
 ---------------------------------
 # Project documentation
 <p align="center">
