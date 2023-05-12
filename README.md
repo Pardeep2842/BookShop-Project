@@ -8,7 +8,8 @@ Using java in Eclipse IDE.
 # Project documentation
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="Main.png" alt="Project logo">
+ <img width=500px height=200px src="![d2](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/Screenshot%20(35).png)
+" alt="Project logo">
   </a>
 </p>
 
