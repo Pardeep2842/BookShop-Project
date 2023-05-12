@@ -10,8 +10,6 @@ Using java in Eclipse IDE.
   <a href="" rel="noopener">
  <img width=500px height=200px src="https://github.com/Pardeep2842/BookShop-Project/blob/main/images/UI.PNG" alt="Project logo"></a>
 </p>
-     ![image1](../images/UI.PNG)
-     ![image2](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/UI.png)
 
 <h3 align="center"> BOOK SHOP INVENTRY SYSTEM</h3>
 
@@ -231,7 +229,7 @@ First Run the file next we get a GUI for Entering the Book details, Save ,Exit ,
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
-![Ebillimg3](https://github.com/Pardeep2842/Electricity-Billing-System/blob/main/Ebillimg3.png)
+![BookShopimg3](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/SearchById.png)
 
 ## ✍️ Author <a name = "author"></a>
 - [@Pardeep-kumar](https://github.com/Pardeep2842/Electricity-Billing-System.git) Pardeep Kumar
