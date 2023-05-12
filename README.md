@@ -8,6 +8,8 @@ Using java in Eclipse IDE.
 # Project documentation
 <p align="center">
   <a href="" rel="noopener">
+     ![Ebillimage1](https://github.com/Pardeep2842/Electricity-Billing-System/blob/main/Ebillimage1.png)
+
  <img width=500px height=200px src="https://github.com/Pardeep2842/Electricity-Billing-System/blob/main/Main.png" alt="Project logo"></a>
 </p>
 
