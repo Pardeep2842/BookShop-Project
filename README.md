@@ -229,10 +229,10 @@ First Run the file next we get a GUI for Entering the Book details, Save ,Exit ,
      ![SearchById](https://github.com/Pardeep2842/BookShop-Project/assets/127415810/428dd850-3461-44ef-b37a-d1584b27c22e)
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
-
-![BookShopimg3](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/SearchById.png)
+![BookShopChart drawio](https://github.com/Pardeep2842/BookShop-Project/assets/127415810/1e477ad9-04d0-46db-99ab-d25c8fb18ac4)
 
 ## ✍️ Author <a name = "author"></a>
+
 - [@Pardeep-kumar](https://github.com/Pardeep2842/Electricity-Billing-System.git) Pardeep Kumar
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
