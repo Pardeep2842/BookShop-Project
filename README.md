@@ -85,11 +85,13 @@ These instructions will get you to develop the  Book Shop Inventry System projec
 
 1.Eclipse IDE Installation
 
-2.Create a Project File in Eclipse
+2.XAMPP app Installation
 
-3.Drag and Drop GUI'S
+3.Create a Project File in Eclipse
 
-4.Button Configuration
+4.Drag and Drop GUI'S
+
+5.Button Configuration
 
 ### Eclipse IDE Installation
 Eclipse IDE is a Free open-Source, Cross-plate form Integrated Development 
@@ -123,7 +125,20 @@ mouse.
 
 Step 5.Click on the next option
 
+### XAMPP APP Installation
+   1. Download the xampp app or click on below link
+   
+   https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.4/xampp-windows-x64-8.2.4-0-VS16-installer.exe
+   
+   
+   2.After downlods the file install the app in your system by clicking-->Next -->Next --->Next
+   3. After that  click on start button on Apache, Tomacat, Mysql as shown in below image
+   
+   ![Screenshot (39)](https://github.com/Pardeep2842/BookShop-Project/assets/127415810/715bbc0d-6b58-414d-87f1-6dc92e036b5f)
 
+   5. Now click on Mysql Admin option and create the database name BookShop and table name Book
+   6. Now when we run the file in Eclipse Id as mysql connection cod given in this file . it auto connected 
+       with mysql data and run on apache server.
 
 ### Create a Project File in beans
 Launch the Eclipse IDE
