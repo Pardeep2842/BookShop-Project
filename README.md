@@ -8,14 +8,7 @@ Using java in Eclipse IDE.
 # Project documentation
 ![Main](https://github.com/Pardeep2842/BookShop-Project/assets/127415810/cb9c22e7-b638-4b9f-8f5f-fd43f63744a2)
 
-<p align="center">
-  <a href="" rel="noopener">
- <img width=500px height=200px src="https://github.com/Pardeep2842/BookShop-Project/blob/main/images/UI.PNG" alt="Project logo"></a>
-</p>
-
 <h3 align="center"> BOOK SHOP INVENTRY SYSTEM</h3>
-![Main](https://github.com/Pardeep2842/BookShop-Project/assets/127415810/87fe4455-a40a-4983-9baf-ae83a917d99c)
-
 
 ---
 
@@ -158,11 +151,9 @@ Source Package--New--JFrame
 
 In the Projects window, right-click the DragAndDropSample project, 
 
-choose New > ![d1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/UI.png)
+choose New > ![UI](https://github.com/Pardeep2842/BookShop-Project/assets/127415810/358919c6-cde4-43ce-8ab3-6e4e5bd0c484)
 
-
-
-![d2](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/Screenshot%20(35).png)
+![Screenshot (35)](https://github.com/Pardeep2842/BookShop-Project/assets/127415810/3a40a6de-4005-40a6-bd1f-92e4246ad233)
 
 
 File/Folder. In the New File wizard, under Categories, select Eclipse Module 
@@ -190,46 +181,52 @@ It has Seven major features.
      In this project there are three main text field. In first one is Book Name in which we 
    have to fill Name of the Book , in second one is for Book Edition in this we have to fill 
    Edition of the Book and in the third one is for Price which is actual price of the Book.
-![BookShop EmptyUi1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/EmptyUi.png)
+   
+  ![EmptyUI](https://github.com/Pardeep2842/BookShop-Project/assets/127415810/9f5a56ed-008e-4ba9-9599-72c8a9be8ab9)
 
 2.  Save Records:-
      In Save button it Save the all detailed which was entered by the users like Book Name, 
      Edition, and Price etc.
-![BookShop SaveBt1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/SaveBt2.png)
-![BookShop SaveBt1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/SaveBt3.png)
+      
+   ![SaveBt2](https://github.com/Pardeep2842/BookShop-Project/assets/127415810/6bd4ccca-a1a4-45f4-8d92-f020f39583b9)
 
+   ![SaveBt3](https://github.com/Pardeep2842/BookShop-Project/assets/127415810/c686cc40-5da5-4453-bf55-0d63512e1660)
+   
 3. Exit Records:-
       In Exit button it Exit from the User Interface and it close the Book Shop Inventry System GUI.
-![BookShop ExitBt1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/ExitBt.png)
+      ![ExitBt](https://github.com/Pardeep2842/BookShop-Project/assets/127415810/4c0f88e4-0273-4252-bda6-2f0a77ba617f)
+
 4. Clear Records:-
       In Clear button it Clear the all detailed which was entered by the users like Book Name, 
        Edition, and Price etc.
-![BookShop ClearBt1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/EmptyUi.png)
-
+     ![EmptyUI](https://github.com/Pardeep2842/BookShop-Project/assets/127415810/5828f7a8-c1fa-4061-b45c-8c91523d0d95)
+     
 5. Update Records:-
       In Update button it Update the all detailed which was entered by the users like Book Name, 
       Edition, and Price. If we want change any specific details the it aalso channge the details
        etc.
-![BookShop UpdateBt1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/UpdatedBt.png)
-
+       ![UpdatedBt](https://github.com/Pardeep2842/BookShop-Project/assets/127415810/3287df9f-525f-4b06-bfd6-724a2c2ac03e)
+      
 6. Delete Records:-
      In Delete button it Delete the all detailed which was entered by the users like Book Name, 
      Edition, and Price and we can also delete the records which is searched by id etc.
-![BookShop DeleteBt1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/DeleteBt.png)
-![BookShop DeleteBt2](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/DeleteBt2.png)
 
+![DeleteBt](https://github.com/Pardeep2842/BookShop-Project/assets/127415810/ac368692-9aa0-4ca4-9aae-331ab06fa2e1)
+ ![DeleteBt2](https://github.com/Pardeep2842/BookShop-Project/assets/127415810/ca023438-8169-45a3-b8d9-d417479063ac)
+ 
 7. Search By Id:-
      In Search Part we can search the all detailed  only by filling the book id in text field and it 
      shows all the details which was entered by the users like Book Name, Edition, and Price etc. 
-![BookShop SearchPart1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/SearchById.png)
-
-
+     
+     ![SearchById](https://github.com/Pardeep2842/BookShop-Project/assets/127415810/428dd850-3461-44ef-b37a-d1584b27c22e)
+   
 ## Deployment <a name = "deployment"></a>
 
 First Run the file next we get a GUI for Entering the Book details, Save ,Exit ,Clear ,Update, Delete Button and Search by Id.
-![BookShop EmptyUi1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/EmptyUi.png)
-![BookShop SaveBt1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/SaveBt3.png)
-![BookShop SearchPart1](https://github.com/Pardeep2842/BookShop-Project/blob/main/images/SearchById.png)
+
+  ![EmptyUI](https://github.com/Pardeep2842/BookShop-Project/assets/127415810/9f5a56ed-008e-4ba9-9599-72c8a9be8ab9)
+   ![SaveBt3](https://github.com/Pardeep2842/BookShop-Project/assets/127415810/c686cc40-5da5-4453-bf55-0d63512e1660)
+     ![SearchById](https://github.com/Pardeep2842/BookShop-Project/assets/127415810/428dd850-3461-44ef-b37a-d1584b27c22e)
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
