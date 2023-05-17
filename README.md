@@ -254,7 +254,8 @@ First Run the file next we get a GUI for Entering the Book details, Save ,Exit ,
 - [@Pardeep-kumar](https://github.com/Pardeep2842/Electricity-Billing-System.git) Pardeep Kumar
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Inspiration
+    -SKILL-LYNC
+- Inspiration 
 
     Each and Every coders are inspiration to me. 
 - References
